@@ -1,4 +1,8 @@
 # mssl1680-firmware
+## Notice
+A better repository [gsl-firmware](https://github.com/onitake/gsl-firmware).
+This is no longer maintaned.
+
 Firmware for silead mmsl1680 touchscreen.
 Depends:linux>=4.9
 firmware/silead
